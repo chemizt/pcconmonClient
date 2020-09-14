@@ -1,0 +1,3 @@
+[submodule "external/pcconmonLibs"]
+	path = external/pcconmonLibs
+	url = https://github.com/chemizt/pcconmonLibs
